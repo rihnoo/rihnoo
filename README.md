@@ -8,7 +8,6 @@ I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
 - 🌱 I’m currently learning DevOps; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ming-lee-91b489144/);
-- 📝[Resume](https://drive.google.com/file/d/1DaDvU0rxE-i5qNPs0S9nmhN9YLh8_rur/view)
 
 **Languages and Tools:**  
 
