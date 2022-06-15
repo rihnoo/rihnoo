@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rihnoo&label=Profile%20views&color=0e75b6&style=flat" alt="rihnoo" /> </p>
 I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
