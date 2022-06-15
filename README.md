@@ -23,4 +23,22 @@ I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<hr />
 
+<details>
+  <summary>GitHub Stats</summary>
+  <p align="left">
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rihnoo&show_icons=true" alt="rihnooa" />
+  </p>
+
+  <p align="left">
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihnoo&layout=compact&hide=php&langs_count=6" />
+  </p>
+</details>
+
+<details>
+  <summary>Strike</summary>
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihnoo&" alt="rihnooa" />
+  </p>
+</details>
