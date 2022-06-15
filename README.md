@@ -32,13 +32,14 @@ I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihnoo&layout=compact&langs_count=8" alt="rihnoo />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihnoo&layout=compact&langs_count=8" />
   </p>
 </details>
 
 <details>
   <summary>Strike</summary>
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihnoo&" alt="rihnooa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihnoo&" alt="rihnoo" />
   </p>
 </details>
+
