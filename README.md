@@ -28,11 +28,11 @@ I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
 <details>
   <summary>GitHub Stats</summary>
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rihnoo&show_icons=true" alt="rihnooa" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rihnoo&show_icons=true&count_private=true" alt="rihnoo" />
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihnoo&layout=compact&hide=php&langs_count=6" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihnoo&layout=compact&langs_count=8" alt="rihnoo />
   </p>
 </details>
 
