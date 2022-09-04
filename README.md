@@ -1,13 +1,6 @@
 ### Hey there!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rihnoo&label=Profile%20views&color=0e75b6&style=flat" alt="rihnoo" /> </p>
-I'm [Ming Lee](http://rihnoo.herokuapp.com/), a Full Stack Developer 🚀.
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently focusing on Smart Contracts :wink:;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ming-lee-91b489144/);
+## Full Stack Developer
 
 **Languages and Tools:**  
 
