@@ -1,6 +1,6 @@
 ## Hey there!
 
-### I'm a Full Stack Developer
+### Full Stack Developer, a highly motivated, result-oriented individual, willing to go an extra mile to reach goals and learn along the way.
 
 **Languages and Tools:**  
 
